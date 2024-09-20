@@ -1,1 +1,6 @@
-Enter the file content here
+The Following code is of uses of the operator i.e +,-,/,*....
+The following are the basics operators in Cpp which carries the functio of the Addition , substraction , multipliaction
+and division.
+In the following code there is two integers functions are decelared i.e. x and y ..to carries the operation on them .
+In the code we used to do the operation on the "cout" function directly...and print there value From the same funtion
+without using that new "cout" funtion.
