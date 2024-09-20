@@ -1,0 +1,4 @@
+In the Following code of lab 4 we used to perform the string manupulation operation...
+For the string function we need to declare the new one header file as £include<string> to carry the function..
+In the code we used the Concatination , substring , part , replace , insert , erase , to uppercase and tolowercase..In the same statement
+The string function also carries the same function as the Interger but from the other prespective of the sentence or words..
