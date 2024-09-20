@@ -1,0 +1,5 @@
+In the Following code of lab 4 we used to find the number given by the user wheather it is present between 10 to 20 or not ..
+To perform that function we used to declare the input from the user .
+Therefore in this code we used to take the integer num as a input.
+To perform that function we used If Else statement .
+And to check the number from 10 to 20 we used the logical opertor i.e. "&&" operator to perform the function..
