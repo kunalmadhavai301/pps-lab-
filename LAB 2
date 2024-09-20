@@ -1,0 +1,4 @@
+In the following lab 2 program we used to find the largest number from the given 3 number .
+For to carry that operation we used to take the three integres as a input from the user ..
+In this case we used Three intergers for user input as a,b,c..
+And select gretest off them by using logical operator "&&" and if else statement. 
