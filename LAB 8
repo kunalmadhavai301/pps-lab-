@@ -1,0 +1,5 @@
+In the simple code of lab 8 we just simply want to perform to check the given integer by the user is positive or negative..
+To execute that code we simply used the greater than equal to sign to execute that program...
+And we also used to take the Integer as a input from the user..
+And use cout function to print the integer weather it is even or odd.
+
