@@ -1,0 +1,5 @@
+In the Following code of lab 3 we used to find the number given by the user wheather it is even or odd..
+To perform that function we used to declare the input from the user .
+Therefore in this code we used to take the integer x as a input.
+To perform that function we used If Else statement .
+And to get the remainder we used the modulus operator "%"..
