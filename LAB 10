@@ -1,0 +1,13 @@
+In the above code of the lab 10 we used to recognize te about wolf and meow,
+for this we used base class function..
+Virtual function for dynamic binding ..
+virtual destructor to ensure proper cleanup of derived objects ..
+virtual destructor to ensure proper cleanup of ..
+derived objects ..
+Override the base class function ..
+Derived class Cat ..
+Override the base class function ..
+Function that takes a pointer to Animal and calls its speak method ..
+Create instances of Dog and Cat ..
+Call function to make each animal speak .
+To execute the code..
