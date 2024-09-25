@@ -1,0 +1,4 @@
+This particular code carries the extraction of the word from the given sentence or the word...
+To carry this operation we do used the string funtion ..
+And if to extract the word first thing to find its position and use substring function.
+And we do also want to give the posiyion of the word which we have to extract in the bracket..()
