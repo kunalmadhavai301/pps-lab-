@@ -1,0 +1,23 @@
+Overview
+This project demonstrates a simple C++ class implementation for a car that can display its current speed. The Car class contains a method to print the speed of the car in kilometers per hour.
+A Car class with a method to display the speed.
+Demonstrates basic class structure and method usage in C++.
+Simple and clear output format for user-friendly interaction.
+Code Structure
+Car.h (optional): You can create a header file for the Car class.
+main.cpp: Contains the main() function and demonstrates the functionality of the Car class.
+Compilation and Execution
+To compile and run the project, use the following commands in your terminal:
+bash
+Copy code
+g++ main.cpp -o car_speed_display
+./car_speed_display
+Output
+The program will output:
+bash
+Copy code
+The car is moving at 100 km/h.
+This indicates that the Car class correctly displays the current speed of the car.
+
+Usage
+You can modify the currentSpeed variable in the main() function to test different speeds. Additionally, you can extend the Car class by adding more features, such as acceleration, braking, or fuel level.
