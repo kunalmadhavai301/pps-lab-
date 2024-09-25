@@ -1,0 +1,9 @@
+This C++ program demonstrates various string manipulation techniques using the string class from the C++ Standard Library.
+It covers operations such as concatenation, substring extraction, finding substrings, replacing parts of strings, inserting strings, erasing parts of strings, and converting case
+Concatenation: Combines two strings.
+Substring Extraction: Retrieves a specific part of a string.
+Finding a Substring: Locates the position of a substring within a string.
+Replacing a Substring: Substitutes a substring with another string.
+Inserting a String: Inserts a string at a specified position.
+Erasing a Substring: Removes a part of the string.
+Changing Case: Converts the string to uppercase and lowercase.
